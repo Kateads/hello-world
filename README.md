@@ -1,2 +1,3 @@
 # hello-world
 This is day one active
+Hello my name is Kat, I am a wife, retail worker and am on the path to learning....
